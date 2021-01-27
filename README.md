@@ -27,6 +27,10 @@ Dentro de una rama hay 2 procesos fundamentales:
 ## Pull
 Traigo los últimos cambios de GitHub.
 
+## Pull Request
+Es similar al Pull con la opción de que antes de subirlo al master, alguien revise los cambios. 
+Esta persona será la encargada de 'aprobarlo', 'denegarlo' o 'comentarlo'.
+
 ## Push
 Traigo los últimos cambios de mi computadora y subirlos a GitHub.
 
