@@ -21,17 +21,17 @@ Estos cambios son los que deben subirse al master.
 Se pueden crear branches propios con nombres adecuados a lo que 
 queremos hacer referencia.
 
+## Guardar cambios
+Dentro de una rama hay 2 procesos fundamentales
 
-Dentro de una rama hay 2 procesos fundamentales:
-
-## Pull
+### Pull
 Traigo los últimos cambios de GitHub.
 
-## Pull Request
+### Pull Request
 Es similar al Pull con la opción de que antes de subirlo al master, alguien revise los cambios. 
 Esta persona será la encargada de 'aprobarlo', 'denegarlo' o 'comentarlo'.
 
-## Push
+### Push
 Traigo los últimos cambios de mi computadora y subirlos a GitHub.
 
 
